@@ -1,0 +1,10 @@
+{
+	"printable-stream.electron-error-message": "无法在FVTT独立程序中运行 Printable-Stream。请在常规浏览器中打开你的游戏。",
+	"printable-stream.print-button": "打印",
+	"printable-stream.hide-buttons-s": "隐藏按钮",
+	"printable-stream.hide-buttons-l": "隐藏聊天中的按钮。",
+	"printable-stream.fitwidth-s": "适合宽度",
+	"printable-stream.fitwidth-l": "打印的聊天信息拉伸到适合页面的宽度。",
+	"printable-stream.bgcolor-s": "背景颜色",
+	"printable-stream.bgcolor-l": "设置背景颜色。例如：black, #FFFFFF"
+}
